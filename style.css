@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0 auto;
+}
+#all-site {
+  width: 100vw;
+  height: 95vh;
+  background-color: black;
+}
+
+main {
+  width: 65vw;
+  height: inherit;
+  background-color: red;
+  float: left;
+}
+
+#aside {
+  width: 10vw;
+  height: 50vh;
+  background-color: green;
+}
+
+aside {
+  width: 15vw;
+  background-color: purple;
+  height: inherit;
+  float: left;
+}
+
+section {
+  width: 100%;
+  height: 50vh;
+  background-color: yellow;
+}
+
+nav {
+  width: 20vw;
+  height: inherit;
+  background-color: pink;
+  float: left;
+}
+
+article {
+  width: 100%;
+  height: 45vh;
+  background-color: orange;
+}
+
+footer {
+  width: 100vw;
+  height: 5vh;
+  background-color: blue;
+}
